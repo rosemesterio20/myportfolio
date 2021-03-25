@@ -1525,43 +1525,30 @@ a {
 .cid-ssE0WytpRA .mbr-text {
   text-align: center;
 }
-.cid-ssE9OZY9iL {
-  padding-top: 30px;
+.cid-ssGaR5g5fD {
+  padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffe4e4;
+  background-color: #ffdada;
 }
-.cid-ssE9OZY9iL .row {
+.cid-ssGaR5g5fD .row {
   align-items: stretch;
   justify-content: center;
 }
-.cid-ssE9OZY9iL .img-item {
-  position: relative;
+.cid-ssGaR5g5fD .row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
 }
-.cid-ssE9OZY9iL .img-item img {
+.cid-ssGaR5g5fD .row .img-item img {
   width: 100%;
   object-fit: cover;
-}
-.cid-ssE9OZY9iL .img-item .img-description {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  z-index: 2;
-  padding: .5rem 1rem .5rem;
-  word-break: break-word;
-}
-.cid-ssE9OZY9iL .img-item .img-description p {
-  margin-bottom: 0;
-}
-.cid-ssE9OZY9iL .text1 {
-  color: #ffffff;
-}
-.cid-ssE9OZY9iL .text2 {
-  color: #000000;
+  min-height: 1px;
 }
 .cid-ssE3cRhs9D {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffb5b5;
+  background-color: #ffdada;
 }
 .cid-ssE3cRhs9D .row {
   align-items: stretch;
@@ -2467,9 +2454,9 @@ a {
   }
 }
 .cid-ssEal27lZd {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
 .cid-ssEal27lZd .media-container-row {
   justify-content: space-between;
